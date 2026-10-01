@@ -1,0 +1,6 @@
+{
+  "name": "Estoque Inteligente",
+  "description": "Sistema de gestão de estoque com cadastro manual de produtos por categoria e preço, com agente chatbot Groq para consultas em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
